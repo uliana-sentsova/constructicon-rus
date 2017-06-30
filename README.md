@@ -1,7 +1,3 @@
 # constructicon-rus
 
-Result:
-
-name of construction    list of errors
-
-...
+Result: list of constructions (identified by NAME field) and inconsistencies.
